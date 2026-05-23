@@ -77,6 +77,11 @@ Install the **Graphics.h Compiler** extension from VS Code Marketplace:
 ![Lab 9.1 Screenshot](output/lab9.1.png)
 
 ---
+### lab10.cpp
+
+![Lab 10 Screenshot](output/lab10.png)
+
+---
 
 ## License
 

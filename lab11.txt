@@ -43,5 +43,4 @@ Output:
 Optional for lab 1.
 
 Discussion and Conclusion:
--	Discuss outputs/results, what problems arose, how you tackled
--	Overall conclusion of what you did and learned
+During this experiment, various Windows GUI utilities and settings were explored successfully. A new disk partition was created using Disk Management, special symbols were inserted using Character Map, and Clipboard History was enabled for managing multiple copied texts.Environment variables were also edited to add a new program path, which helps the operating system locate executable files easily. Firewall outbound rules were configured to block internet access for a selected program.Some operations required administrator permission and careful handling of system settings. Overall, this experiment helped in understanding important Windows GUI tools, system configuration, storage management, clipboard handling, and network security settings.
