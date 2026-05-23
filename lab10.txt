@@ -1,0 +1,47 @@
+Title: To familiarize with Windows GUI.
+	
+Objectives:
+	1. To learn about disk partition and create a new partition
+	2. To write symbols using character map
+	3. To use clipboard to copy and paste multiple texts
+	4. To use Environment variables settings, to set path for a newly installed program
+	5. To block a program with firewall
+	6. some useful settings
+	7. some useful settings
+	8. some useful settings
+
+Theory:
+	Creating a New Partition:
+	A partition is a logical division of a computer's hard drive, allowing users to organize and separate data. Creating a new partition involves dividing an existing drive into multiple sections, each of which acts as a separate unit with its file system.
+
+Character Map:
+Character Map, on Windows operating systems, is a utility that allows users to view and insert special characters and symbols that may not be readily available on the keyboard. It provides a graphical interface for exploring the various characters supported by different fonts.
+
+Clipboard:
+The clipboard is a temporary storage area in a computer's memory that holds data that has been cut or copied from a document or file. It allows users to move or duplicate information within or between applications.
+
+Environment Variables and Path:
+Environment variables are dynamic values that can affect the behavior of processes and programs running on a computer. They are part of the environment in which a process runs and can store information such as system paths, configuration settings, or user preferences. One common use of environment variables is managing system paths. Paths tell the operating system where to look for executable files when a command is entered.
+
+Firewall and Outbound Rules:
+A firewall is a network security device or software that monitors and controls incoming and outgoing network traffic based on predetermined security rules. Outbound rules in a firewall define the criteria and permissions for network traffic leaving a device or network. These rules play a crucial role in managing the flow of data from your system to external networks, ensuring security and control over outgoing connections.
+
+
+Procedure:
+On the Start menu, search “Create and format disk partitions”. Right click on a partition with a drive letter and select “shrink volume”. Enter the desired size of the new partition and assign the drive letter.
+
+Open command prompt, type “charmap” and hit enter. New window will open where we can select and copy the desired symbol.
+
+Open Settings -> System -> Clipboard. Enable Clipboard history to be able to copy and paste multiple texts and images using “ctrl + c” and “windows + v”.
+
+On the Start menu, search “environment variables” and select “edit the system environment variables” and hit enter. Select environment variables -> path -> edit -> new, and add a new path and save.
+
+On the Start menu, Search “windows defender firewall” and select advanced settings -> outbound rules -> new rule -> select program to block outgoing network traffic and apply.
+
+
+Output:
+Optional for lab 1.
+
+Discussion and Conclusion:
+-	Discuss outputs/results, what problems arose, how you tackled
+-	Overall conclusion of what you did and learned
