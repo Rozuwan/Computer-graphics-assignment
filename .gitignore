@@ -17,6 +17,7 @@
 *.lib
 *.exp
 .vs/
+.vscode/
 Debug/
 Release/
 x64/
