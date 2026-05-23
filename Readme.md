@@ -6,7 +6,7 @@ Install the **Graphics.h Compiler** extension from VS Code Marketplace:
 
 [Graphics.h Compiler - VS Marketplace](https://marketplace.visualstudio.com/items?itemName=AlbatrossC.graphics-h-compiler)
 
-![Extension](op/extension.png)
+![Extension](output/extension.png)
 
 ### How to Use
 
@@ -24,57 +24,57 @@ Install the **Graphics.h Compiler** extension from VS Code Marketplace:
 
 ### lab1.cpp
 
-![Lab 1 Screenshot](op/lab1.png)
+![Lab 1 Screenshot](output/lab1.png)
 
 ---
 
 ### lab2.cpp
 
-![Lab 2 Screenshot](op/lab2.png)
+![Lab 2 Screenshot](output/lab2.png)
 
 ---
 
 ### lab3.cpp
 
-![Lab 3 Screenshot](op/lab3.png)
+![Lab 3 Screenshot](output/lab3.png)
 
 ---
 
 ### lab4.cpp
 
-![Lab 4 Screenshot](op/lab4.png)
+![Lab 4 Screenshot](output/lab4.png)
 
 ---
 
 ### lab5.cpp
 
-![Lab 5 Screenshot](op/lab5.png)
+![Lab 5 Screenshot](output/lab5.png)
 
 ---
 
 ### lab6.cpp
 
-![Lab 6 Screenshot](op/lab6.png)
+![Lab 6 Screenshot](output/lab6.png)
 
 ---
 
 ### lab7.cpp
 
-![Lab 7 Screenshot](op/lab7.png)
+![Lab 7 Screenshot](output/lab7.png)
 
 ---
 
 ### lab8.cpp
 
-![Lab 8 Screenshot](op/lab8.png)
-![Lab 8.1 Screenshot](op/lab8.1.png)
+![Lab 8 Screenshot](output/lab8.png)
+![Lab 8.1 Screenshot](output/lab8.1.png)
 
 ---
 
 ### lab9.cpp
 
-![Lab 9 Screenshot](op/lab9.png)
-![Lab 9.1 Screenshot](op/lab9.1.png)
+![Lab 9 Screenshot](output/lab9.png)
+![Lab 9.1 Screenshot](output/lab9.1.png)
 
 ---
 
