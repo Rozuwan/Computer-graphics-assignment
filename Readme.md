@@ -77,3 +77,7 @@ Install the **Graphics.h Compiler** extension from VS Code Marketplace:
 ![Lab 9.1 Screenshot](op/lab9.1.png)
 
 ---
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
